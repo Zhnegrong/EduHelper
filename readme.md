@@ -1,13 +1,13 @@
 
 ## About EduHelper
 
-EduHelper is a web template developped to support the student management in school.
-*It can help the teachers:<br>
-*Pubish the homeworks.<br>
-*Suivi the note change <br>
-*Create on-line quiz<br>
-*Collect the time consomated for each subject<br>
-  etc..<br>
+EduHelper is a web template developped to support the student management in school.<br>
+  It can help the teachers:<br>
+  >Pubish the homeworks.<br>
+  >Suivi the note change <br>
+  >Create on-line quiz<br>
+  >Collect the time consomated for each subject<br>
+  >etc..<br>
  
 We use laravel as our developpment framework. I hope that one day the new IT tech can make changes to current education mode.
 And we can make some quantative analysis with the data collected from our sites.
